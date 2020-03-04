@@ -1,6 +1,6 @@
-import 'package:drawer_demo/fragments/first_fragment.dart';
-import 'package:drawer_demo/fragments/second_fragment.dart';
-import 'package:drawer_demo/fragments/third_fragment.dart';
+import 'package:drawer_demo/src/first_fragment.dart';
+import 'package:drawer_demo/src/second_fragment.dart';
+import 'package:drawer_demo/src/third_fragment.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatelessWidget {
