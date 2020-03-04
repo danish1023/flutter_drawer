@@ -1,4 +1,4 @@
-# drawer_demo
+# flutter_drawer
 
 A Flutter app that demonstrates how to implement the good old NavigationDrawer present in Android Native.
 
